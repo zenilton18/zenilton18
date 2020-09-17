@@ -1,4 +1,3 @@
-<div style="background-color: red">
 <img src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left">
@@ -17,17 +16,10 @@
 <p align="left">
 :e-mail:  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
-
-<p align="left">
-<a href="ze18.fv@gmail.com" >
-	e-mail
+ <p align="left">
+<a href="ze18.fv@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
   
-<a href="https:www.linkedin.com/in/
-zenilton-sousa-silvaa-7094191b1
-" alt="Linkedin">
-Linkedin
-  <a href="https://twitter.com/iuriescreve" alt="Twitter">
- </p>
- </div>
- 
- 
+<a href="https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Zenilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  

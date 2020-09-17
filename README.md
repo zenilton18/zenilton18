@@ -17,7 +17,7 @@
 :e-mail:  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
  <p align="left">
-<a href="ze18.fv@gmail.com" alt="Gmail">
+<a href="mailto:ze18.fv@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" alt="Linkedin">

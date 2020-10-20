@@ -1,12 +1,13 @@
 <img src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left">
-  Olá, meu nome é <strong>Zenilton Sousa </strong> sou <strong>Desenvolvedor Front-end</strong>.<br>
+  Olá, meu nome é <strong>Zenilton Sousa </strong> sou <strong>Desenvolvedor WEB FULL STACK</strong>.<br>
   
 </p>
 
 <p align="left">
-  :gear: Habilidades: <strong>HTML5, CSS3, Bootstrap, Java Script ,ECMAScript-2015- ES6.</strong>
+  :gear: Habilidades: <strong>HTML5, CSS3, Bootstrap, Java Script,
+  Jquery ,ES6, PHP , PDO , MVC </strong>
 </p>
 
 <p align="left">

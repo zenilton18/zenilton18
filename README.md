@@ -19,8 +19,8 @@
 </p>
  <p align="left">
 <a href="mailto:ze18.fv@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ze18.fv@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Zenilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<img src="https://img.shields.io/badge/-Zenilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" /></a>
   

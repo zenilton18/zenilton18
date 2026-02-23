@@ -1,7 +1,7 @@
 <img src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" width="200px" align="right" />
 
 # Olá! Eu sou Zenilton Sousa 👋
-**Desenvolvedor Web Full Stack** com mais de **3,5 anos de experiência** em desenvolvimento de aplicações PHP, front-end e filas com RabbitMQ.
+**Desenvolvedor Web Full Stack** com mais de **3,5 anos de experiência** em desenvolvimento de aplicações PHP.
 
 ---
 

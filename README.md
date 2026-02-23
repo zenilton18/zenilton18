@@ -1,26 +1,32 @@
-<img src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" width="200px" align="right" />
 
-<p align="left">
-  Olá, meu nome é <strong>Zenilton Sousa </strong> sou <strong>Desenvolvedor WEB FULL STACK</strong>.<br>
-  
-</p>
+# Olá! Eu sou Zenilton Sousa 👋
+**Desenvolvedor Web Full Stack** com mais de **3,5 anos de experiência** em desenvolvimento de aplicações PHP, front-end e filas com RabbitMQ.
 
-<p align="left">
-  :gear: Habilidades: <strong>HTML5, CSS3, Bootstrap, Java Script,
-  Jquery ,ES6, PHP , PDO , MVC </strong>
-</p>
+---
 
-<p align="left">
-  :man_student:Cursando atualmente: <strong>Ciência da Computação.</strong>
-</p>
+## 🛠️ Habilidades
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery, ES6  
+- **Backend:** PHP, PDO, MVC, ORM  
+- **Filas e Mensageria:** RabbitMQ  
+- **Banco de Dados:** MySQL  
 
-<p align="left">
-:e-mail:  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
-</p>
- <p align="left">
-<a href="mailto:ze18.fv@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ze18.fv@gmail.com" /></a>
-  
-<a href="https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Zenilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/" /></a>
-  
+---
+
+## 🎓 Formação
+- Cursando atualmente: **Ciência da Computação**
+
+---
+
+## 📫 Contato
+Quer falar comigo? Me mande mensagem em alguma dessas redes sociais:
+
+[![Gmail](https://img.shields.io/badge/-ze18.fv@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white)](mailto:ze18.fv@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-Zenilton-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenilton-sousa-silva-7094191b1/)
+
+---
+
+## 🚀 Sobre mim
+- Experiência prática com **desenvolvimento Full Stack** desde **01/2024**  
+- Especialista em **PHP + ORM + RabbitMQ + Front-end responsivo**  
+- Gosto de **resolver problemas complexos** e entregar código limpo e eficiente
